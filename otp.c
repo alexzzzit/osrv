@@ -163,7 +163,7 @@ int main(int argc, char* argv[]) {
     
     unsigned char* text = NULL;
     size_t file_size;
-    if (load_file(input_path, &text, &file_size) {
+    if (load_file(input_path, &text, &file_size)) {
         return EXIT_FAILURE;
     }
     

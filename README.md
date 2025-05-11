@@ -1,1 +1,5 @@
-# osrv
+
+
+### Тест проекта  
+```bash
+make test
